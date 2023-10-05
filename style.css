@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: "Nunito", sans-serif;
+}
+
+.header {
+    /* border: solid black; */
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: auto;
+}
+
+.header-left {
+    font-weight: bold;
+}
+
+.header-right {
+    /* border: solid gray; */
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+a, ul {
+    font-family: "Nunito", sans-serif;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    display: flex;
+    gap: 20px;
+}
+
