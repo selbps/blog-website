@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Nunito", sans-serif;
-    background-image: linear-gradient(to right, rgb(255, 237, 102), rgb(252, 165, 94));
+    background-image: linear-gradient(to right, lightblue, rgb(115, 115, 255));
 }
 
 .header {
