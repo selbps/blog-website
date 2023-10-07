@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Nunito", sans-serif;
-    background-image: linear-gradient(to right, lightblue, rgb(115, 115, 255));
+    background-image: linear-gradient(to right, rgb(133, 203, 226), rgb(36, 36, 172));
     display: flex;
     flex-direction: column;
     flex: 1;
